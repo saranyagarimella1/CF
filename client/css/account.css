@@ -1,0 +1,31 @@
+.textColor{
+
+    color: red;
+    padding-left: 2%;
+}
+
+.customerAccountDetails {
+    padding: 5%;
+
+}
+
+.btn {
+    background: red;
+    position: absolute;
+    text-align: center;
+    font-size: 10px;
+    padding: 7px;
+    left: 7%;
+    display: inline-block;
+    border-radius: 1px;
+    background-color: red;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+
+    width: 10%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
